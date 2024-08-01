@@ -1,0 +1,20 @@
+# Stock API
+STOCKDATA_API_TOKEN = "temp"
+
+# FRED API
+FRED_API_KEY = 'temp'
+
+# OPENAI API
+OPENAI_API_KEY = 'temp'
+
+# ALPHA VANTAGE
+ALPHA_VANTAGE_API_KEY = 'temp'
+
+# RIOT API
+RIOT_API_KEY = 'temp'
+
+# BrawlStars API
+BRAWLSTARS_API_KEY ='temp'
+
+# MealDB API
+MealDB_API_KEY = '1'
